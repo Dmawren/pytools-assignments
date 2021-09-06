@@ -2,5 +2,5 @@
 
 Please find the link to my resume:
 
-https://github.com/Dmawren/resume
+[link](https://github.com/Dmawren/resume)
 
